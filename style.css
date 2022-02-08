@@ -32,6 +32,7 @@ body {
      gap: 30px;
      font-family: 'Montserrat', sans-serif;
      font-weight: 300;
+     align-items: center;
  }
 
  .conteudoprincipal {
@@ -41,6 +42,7 @@ body {
     justify-content: space-around;
     flex-direction: row;
     padding-top: 70px;
+    flex-wrap: wrap;
     
 
 }
@@ -48,6 +50,7 @@ body {
 .conteudoescrito {
     padding-bottom: 20px;
     margin-left: 30px;
+    
 }
 
 .titulo {
@@ -187,6 +190,7 @@ margin-right: 100px;}
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 
@@ -372,3 +376,5 @@ padding-top: 70px;}
     from { opacity: 1; }
     to { opacity: 0.3; } /* IE */
     }​
+
+    
