@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 539 369" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Prancheta1" transform="matrix(0.525778,0,0,0.479572,0,0)">
+        <rect x="0" y="0" width="1024" height="768" style="fill:none;"/>
+        <g transform="matrix(1.452,0,0,1.59189,-494.034,-394.373)">
+            <text x="423.844px" y="505.027px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:264.912px;">404</text>
+        </g>
+        <g transform="matrix(0.555292,0,0,0.608794,-117.3,265.659)">
+            <text x="423.844px" y="505.027px" style="font-family:'Montserrat-Light', 'Montserrat';font-weight:300;font-size:264.912px;">Not F<tspan x="1139.37px " y="505.027px ">o</tspan>un<tspan x="1659.39px " y="505.027px ">d</tspan></text>
+        </g>
+        <g transform="matrix(2.01571,0,0,2.20992,-1020.06,-559.813)">
+            <text x="593.938px" y="548.274px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:11.748px;">Não é uma página de err<tspan x="739.918px " y="548.274px ">o</tspan> não! Esse é o sit<tspan x="842.265px " y="548.274px ">e</tspan> de f<tspan x="874.443px 881.374px 887.272px " y="548.274px 548.274px 548.274px ">aze</tspan>r sit<tspan x="915.608px " y="548.274px ">e</tspan>!</text>
+        </g>
+    </g>
+</svg>
